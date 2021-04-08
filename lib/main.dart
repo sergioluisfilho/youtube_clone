@@ -3,7 +3,7 @@ import 'package:youtube/Home.dart';
 
 void main() => runApp(MaterialApp(
   home: Home(),
-  debugShowCheckedModeBanner: false
+  debugShowCheckedModeBanner: false,
 ));
 
 
